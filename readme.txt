@@ -1,0 +1,1 @@
+mongodb+srv://admin:<db_password>@cluster20.veja3.mongodb.net/
